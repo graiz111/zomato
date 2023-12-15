@@ -1,0 +1,814 @@
+.header{
+    background-image:url(https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png) ;
+    width: 100%;
+    height: 600px;
+   
+   
+
+}
+body{
+    margin: 0px;
+    font-family: Okra, Helvetica, sans-serif;
+}
+.liheader1{
+    margin-left: 1085px;
+    color: white;
+    width: 30%;
+    height: 50px;
+    background-color: transparent;
+    float: left;
+    
+}
+.liheaderone{
+background-color: transparent;
+width: 60%;
+    height: 50px;
+float: left;
+margin-top: 13px;
+}
+.liheaderonetext{
+    margin-left: 136px;
+    margin-top: 1px;
+    font-size: 10px;
+}
+.liheadertwologo{
+   img{
+    width: 42px;
+    height: 40px;
+    margin-top: 16px;
+   }
+    float: left;
+
+}
+.liheadertwo{
+    background-color:transparent;
+    width: 9%;
+    height: 50px;
+    float: left;
+}
+.liheaderthree{
+    background-color: transparent;
+    width: 31%;
+    height: 50px;
+    float: left;
+}
+.liheaderthreename{
+    margin-bottom: -34px;
+    margin-left: 5px;
+    font-size: 10px;
+    float: left;
+    margin-top: 10px;
+    color: white;
+}
+.selectthree{
+    margin-top: 16px;
+    margin-left: 6px;
+    width: 10px;
+
+}
+.selectthree select 
+{ background-color:transparent;
+    border:0px;
+    
+    outline: none;
+    
+}
+.selectthree{
+    background-color: transparent;
+}
+.liheaderone{
+    padding-top: 0px;
+}
+.header1{
+    background-color:transparent;
+    width: 100%;
+    height: 65px;
+    float: left;
+    margin-top: 223px;
+}
+.logo{
+    width: 260px;
+    margin-left: 781px;
+}
+.paragraph{
+    background-color:transparent;
+    width: 100%;
+    height: 94px;
+    float: left;
+}
+.parain{
+    background-color:transparent;
+    width: 34%;
+    height: 94px;
+    float: left;
+    margin-left: 589px;
+
+}
+.paratext{
+    color: white;
+    margin-left: 29px;
+    font-size: 2.6rem;
+    margin-top: 1px;
+    text-align: center;
+}
+.bodystart{
+    background-color: white;
+    width: 100%;
+    height: 143px;
+    
+}
+.bodys{
+    background-color:white;
+    width: 24%;
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 601px;
+    float: left;
+}
+.ta{
+    background-color: white;
+    width:4%;
+    height: 50px;
+    margin-top: 40px;
+    float: left;
+}
+.rt{
+    background-color: white;
+    width:7%;
+    height: 50px;
+    margin-top: 40px;
+    float: left;
+}
+.bodystext{
+    line-height: 1.2;
+    font-weight: 400;
+    
+    margin: -15px;
+    margin-left: 125px;
+    font-weight:7px;
+}
+.errr{
+    font-weight: 7px;
+}
+.tat{
+    margin-left: 2px;
+    margin-top: 2px;
+}
+.rtr{
+    margin-left: 14px;
+    margin-top: -18px;
+    font-size: 110%;
+}
+.bodymiddletext{
+    background-color: white;
+    width: 62%;
+    height: 119px;
+    margin-left: 414px;
+    text-align: center;
+    font-size: 140%;
+
+}
+.bodydown{
+    background-color: white;
+    width: 62%;
+    height: 345px;
+    margin-left: 406px;
+   
+}
+.downone{
+    width: 30%;
+    height: 62px;
+    background-color: white;
+    float: left;
+    margin-left: 26.5px;
+    margin-top: 39px;
+    cursor: pointer;
+    border-radius: 6% 6% 6% 6%;
+   
+    
+}
+.downonetext{
+  
+    background-color: white;
+    width: 67%;
+    height: 42%;
+    float: left;
+    margin-top: 18px;
+    margin-left: 13px;
+}
+.downonetextname{
+    margin-top: 4px;
+    margin-left: 7px;
+
+}
+.downonearrow{
+    float: left;
+    background-color: white;
+    width: 8%;
+    height: 40%;
+    margin-top: 18px;
+    margin-left: 64px;
+    
+}
+.downonearrowb{
+    margin-top: 2px;
+    margin-left: 2px;
+    cursor: pointer;
+    border: 0px;
+    background-color: white;
+    
+}
+
+.downtwo{
+    width: 30%;
+    height: 62px;
+    background-color: white;
+    float: left;
+    margin-left: 26.5px;
+    margin-top: 39px;
+    cursor: pointer;
+    border-radius: 6% 6% 6% 6%;
+}
+.downtwotext{
+  
+    background-color: white;
+    width: 67%;
+    height: 42%;
+    float: left;
+    margin-top: 18px;
+    margin-left: 13px;
+}
+.downtwotextname{
+    margin-top: 4px;
+    margin-left: 7px;
+
+}
+.downtwoarrow{
+    float: left;
+    background-color: white;
+    width: 8%;
+    height: 40%;
+    margin-top: 18px;
+    margin-left: 64px;
+}
+.downtwoarrowb{
+    margin-top: 2px;
+    margin-left: 2px;
+    cursor: pointer;
+    border: 0px;
+    background-color: white;
+}
+.downthree{
+    width: 30%;
+    height: 62px;
+    background-color: white;
+    float: left;
+    margin-left: 26.5px;
+    margin-top: 39px;
+    cursor: pointer;
+    border-radius: 6% 6% 6% 6%;
+}
+.downthreetext{
+  
+    background-color: white;
+    width: 67%;
+    height: 42%;
+    float: left;
+    margin-top: 18px;
+    margin-left: 13px;
+}
+.downthreetextname{
+    margin-top: 4px;
+    margin-left: 7px;
+
+}
+.downthreearrow{
+    float: left;
+    background-color: white;
+    width: 8%;
+    height: 40%;
+    margin-top: 18px;
+    margin-left: 64px;
+}
+.downthreearrowb{
+    margin-top: 2px;
+    margin-left: 2px;
+    cursor: pointer;
+    border: 0px;
+    background-color: white;
+}
+.downfour{
+    width: 30%;
+    height: 62px;
+    background-color: white;
+    float: left;
+    margin-left: 26.5px;
+    margin-top: 39px;
+    cursor: pointer;
+    border: black;
+    border-radius: 6% 6% 6% 6%;
+}
+.downfourtext{
+  
+    background-color: white;
+    width: 67%;
+    height: 42%;
+    float: left;
+    margin-top: 18px;
+    margin-left: 13px;
+}
+.downfourtextname{
+    margin-top: 4px;
+    margin-left: 7px;
+    cursor: pointer;
+
+}
+.downfourarrow{
+    float: left;
+    background-color: white;
+    width: 8%;
+    height: 40%;
+    margin-top: 18px;
+    margin-left: 64px;
+}
+.downfourarrowb{
+    margin-top: 2px;
+    margin-left: 2px;
+    cursor: pointer;
+    border: 0px;
+    background-color: white;
+}
+.downfive{
+    width: 30%;
+    height: 62px;
+    background-color: white;
+    float: left;
+    margin-left: 26.5px;
+    margin-top: 39px;
+    cursor: pointer;
+    border-radius: 6% 6% 6% 6%;
+}
+.downfivetext{
+  
+    background-color: white;
+    width: 67%;
+    height: 42%;
+    float: left;
+    margin-top: 18px;
+    margin-left: 13px;
+}
+.downfivetextname{
+    margin-top: 4px;
+    margin-left: 7px;
+    cursor: pointer;
+
+}
+.downfivearrow{
+    float: left;
+    background-color: white;
+    width: 8%;
+    height: 40%;
+    margin-top: 18px;
+    margin-left: 64px;
+}
+.downfivearrowb{
+    margin-top: 2px;
+    margin-left: 2px;
+    cursor: pointer;
+    border: 0px;
+    background-color: white;
+}
+.downsix{
+    width: 30%;
+    height: 62px;
+    background-color:white;
+    float: left;
+    margin-left: 26.5px;
+    margin-top: 39px;
+    cursor: pointer;
+    border-radius: 6% 6% 6% 6%;
+}
+.downsixtext{
+  
+    background-color: white;
+    width: 67%;
+    height: 42%;
+    float: left;
+    margin-top: 18px;
+    margin-left: 13px;
+}
+.downsixtextname{
+    margin-top: 4px;
+    margin-left: 7px;
+    cursor: pointer;
+
+}
+.downsixarrow{
+    float: left;
+    background-color: white;
+    width: 8%;
+    height: 40%;
+    margin-top: 18px;
+    margin-left: 64px;
+}
+.downsixarrowb{
+    margin-top: 2px;
+    margin-left: 2px;
+    cursor: pointer;
+    border: 0px;
+    background-color: white;
+}
+.downseven{
+    width: 30%;
+    height: 62px;
+    background-color: white;
+    float: left;
+    margin-left: 26.5px;
+    margin-top: 39px;
+    cursor: pointer;
+    border-radius: 6% 6% 6% 6%;
+}
+.downseventext{
+  
+    background-color: white;
+    width: 67%;
+    height: 42%;
+    float: left;
+    margin-top: 18px;
+    margin-left: 13px;
+}
+.downseventextname{
+    margin-top: 4px;
+    margin-left: 7px;
+    cursor: pointer;
+
+}
+.downsevenarrow{
+    float: left;
+    background-color: white;
+    width: 8%;
+    height: 40%;
+    margin-top: 18px;
+    margin-left: 64px;
+}
+.downsevenarrowb{
+    margin-top: 2px;
+    margin-left: 2px;
+    cursor: pointer;
+    border: 0px;
+    background-color: white;
+}
+.downeight{
+    width: 30%;
+    height: 62px;
+    background-color: white;
+    float: left;
+    margin-left: 26.5px;
+    margin-top: 39px;
+    cursor: pointer;
+    border-radius: 6% 6% 6% 6%;
+}
+.downeighttext{
+  
+    background-color: white;
+    width: 67%;
+    height: 42%;
+    float: left;
+    margin-top: 18px;
+    margin-left: 13px;
+}
+.downeighttextname{
+    margin-top: 4px;
+    margin-left: 7px;
+    cursor: pointer;
+
+}
+.downeightarrow{
+    float: left;
+    background-color: white;
+    width: 8%;
+    height: 40%;
+    margin-top: 18px;
+    margin-left: 64px;
+}
+.downeightarrowb{
+    margin-top: 2px;
+    margin-left: 2px;
+    cursor: pointer;
+    border: 0px;
+    background-color: white;
+}
+.downnine{
+    width: 30%;
+    height: 62px;
+    background-color: white;
+    float: left;
+    margin-left: 26.5px;
+    margin-top: 39px;
+    cursor: pointer;
+    border-radius: 6% 6% 6% 6%;
+}
+.downninetext{
+  
+    background-color: white;
+    width: 67%;
+    height: 42%;
+    float: left;
+    margin-top: 18px;
+    margin-left: 13px;
+}
+.downninetextname{
+    margin-top: 4px;
+    margin-left: 7px;
+    cursor: pointer;
+
+}
+.downninearrow{
+    float: left;
+    background-color: white;
+    width: 8%;
+    height: 40%;
+    margin-top: 18px;
+    margin-left: 64px;
+}
+.downninearrowb{
+    margin-top: 2px;
+    margin-left: 2px;
+    cursor: pointer;
+    border: 0px;
+    background-color: white;
+}
+.footer{
+    background-color:#e6e6e6;
+    width: 100%;
+    height:477px;
+    margin: 0px;
+    float: left;
+}
+.footercontainer{
+    background-color: transparent;
+    width: 62%;
+    height: 477px;
+    margin-left: 406px;
+    float: left;
+}
+.footerlogo{
+    background-color: transparent;
+    width: 13%;
+    height: 10%;
+    margin-top: 60px;
+}
+.footerimage
+{
+img{
+    width: 141px;
+    height: 29px;
+    margin-top: 6px;
+}
+}
+.footerlocat
+{
+    background-color: transparent;
+    width: 154px;
+    height: 45px;
+    margin-left: 840px;
+    margin-top: -35px;
+
+}
+.footerlanguage
+{
+    background-color: transparent;
+    width: 156px;
+    height: 43px;
+    float: left;
+    margin-left: 999px;
+    margin-top: -45px;
+}
+.footerlocation{
+
+}
+.footerloclass{
+    width: 108px;
+    height: 44px;
+    font-size: 24px;
+    margin-left: 46px;
+    float: left;
+    border-radius: 8%;
+    margin-top: -40px;
+}
+.footerloimg
+{
+    width: 38px;
+    height: 36px;
+    margin-top: 4px;
+    float: left;
+}
+.footerlang{
+    img{
+        width: 19%;
+        height: 45%;
+        margin-top: 6px;
+        float: left;
+    }
+
+}
+.footerlaclass
+{
+    margin-top: -36px;
+    margin-left: 39px;
+    width: 110px;
+    height: 42px;
+    float: left;
+}
+.footerone{
+    width: 180px;
+    height: 217px;
+    background-color: transparent;
+    float: left;
+    margin-top: 18px;
+    margin-left: 0px;
+}
+.footertwo{
+    width: 180px;
+    height: 217px;
+    background-color: transparent;
+    float: left;
+    margin-top: 18px;
+    margin-left: 45px;
+    
+}
+
+.footerthree{
+    width: 234px;
+    height: 217px;
+    background-color: transparent;
+    float: left;
+    margin-top: 18px;
+    margin-left: 45px;
+    
+}
+
+.footerfour{
+    width: 180px;
+    height: 217px;
+    background-color: transparent;
+    float: left;
+    margin-top: 18px;
+    margin-left: 45px;
+    
+}
+.footerfive{
+    width: 180px;
+    height: 217px;
+    background-color: transparent;
+    float: left;
+    margin-top: 18px;
+    margin-left: 45px;
+    float: left;
+    
+}
+.footeronetext{
+    color: black;
+    width: 180px;
+    height: 217px;
+    text-align: center;
+
+
+}
+.footertwotext{
+    color: black;
+    width: 180px;
+    height: 217px;
+    text-align: center;
+    
+}
+.footerthreetext{
+    color: black;
+    width: 234px;
+    height: 217px;
+    text-align: center;
+    
+}
+.footerfourtext{
+    color: black;
+    width: 180px;
+    height: 217px;
+    text-align: center;
+}
+.footerfivetext
+{    color: black;
+    text-align: center;
+    font-size: 8px;
+    margin-top: -5px;
+
+
+}
+.footerfivei{
+    width: 100%;
+    height: 14%;
+        margin-top: 6px;
+        
+        background-color:transparent;
+
+
+}
+.footerfiveim{
+
+    width: 100%;
+    height: 21%;
+    margin-top: 20px;
+        background-color:transparent;
+}
+.footerfiveimg{
+   
+    width: 100%;
+    height: 19%;
+    margin-top: 6px;
+        
+        background-color: transparent;
+
+}
+.footerfiveimgtwo{
+
+}
+.footerfiveimgone{
+
+}
+.footerfiveimgo{
+    width: 140px;
+    height: 43px;
+    margin-left: 20px;
+    margin-top: 1px;
+
+}
+.footerfiveimgt{
+    width: 140px;
+    height: 38px;
+    margin-left: 20px;
+    margin-top: 1px;
+
+}
+.ffio{
+    width: 20%;
+    height: 100%;
+    background-color: transparent;
+    float: left;
+    img{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%
+
+    }
+
+}
+.ffit{
+    width: 20%;
+    height: 100%;
+    background-color: transparent;
+    float: left;
+    img{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%
+        
+    }
+    
+}
+.ffith{
+    width: 20%;
+    height: 100%;
+    background-color: transparent;
+    float: left;
+    img{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%
+        
+    }
+}
+.ffif{
+    width: 20%;
+    height: 100%;
+    background-color:transparent;
+    float: left;
+    img{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%
+        
+    }
+}
+.ffifi{
+    width: 20%;
+    height: 100%;
+    background-color: transparent;
+    float: left;
+    img{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%
+        
+    }
+}
+
+
